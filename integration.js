@@ -1,1 +1,1 @@
-console.log("Site developed by TonPrénom");
+console.log("Site developed by Altin");
